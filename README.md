@@ -17,15 +17,15 @@ This NLP project analyzes restaurant reviews to classify them as positive or neg
 **Machine Learning Models & Accuracy:**
 Random Forest
 Training Accuracy: 99%
-Testing Accuracy: 80%
+Testing Accuracy: 80%,
 Logistic Regression
 Training Accuracy: 94%
-Testing Accuracy: 79%
+Testing Accuracy: 79%,
 Support Vector Machine (SVM)
 Training Accuracy: 99%
-Testing Accuracy: 80%
+Testing Accuracy: 80%.
 **Features & Libraries Used:**
-TF-IDF Vectorization for text representation
-Scikit-learn for machine learning models
-NLTK for text preprocessing (stopwords removal, regex cleaning)
-Matplotlib & Seaborn for data visualization
+TF-IDF Vectorization for text representation,
+Scikit-learn for machine learning models,
+NLTK for text preprocessing (stopwords removal, regex cleaning),
+Matplotlib & Seaborn for data visualization.
